@@ -1,0 +1,23 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "Device Prototype #2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loudbinary/pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loudbinary/pong/issues"
+  },
+  "homepage": "https://github.com/loudbinary/pong#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "md5": "^2.2.1"
+  }
+}
